@@ -6,10 +6,10 @@ Some of the SNP, Insert and Deletion have an alt-frequence more than 100%, we ca
 This program is used to rectify the germline mutation with the input of mpileup
 
 # Usage
-(1) compile:
-        gcc -std=c99 -o RefRectify RefRectify.3.c
-(2) comand line:
-        RefRectify [options]
+## compile:
+* gcc -std=c99 -o RefRectify RefRectify.3.c
+## comand line:
+        RefRectify [options]<\br>
         -h        helpinfo
         -i        inputfile  [mpileup file]
         -o        outputfile [rectified reference]
