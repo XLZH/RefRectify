@@ -1,5 +1,6 @@
 # RefRectify
-Rectify the reference (germline Snp, Insert and Deletion) with the result of mpileup
+Rectify the reference (germline Snp, Insert and Deletion) with the result of mpileup<br>
+Version: 3
 
 # Background
 Some of the SNP, Insert and Deletion have an alt-frequence more than 100%, we call this kind of mutation "Germline mutation"
