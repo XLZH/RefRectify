@@ -15,4 +15,4 @@ gcc -std=c99 -o RefRectify RefRectify.3.c
         -i        inputfile  [mpileup file]
         -o        outputfile [rectified reference]
         -r        original reference that will be rectified
-        -c        cutoff for alt-frequence [default = 0.9]
+        -c        cutoff for alt-frequence (should bigger than 0.5) [default = 0.9]
