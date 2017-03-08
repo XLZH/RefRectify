@@ -1,5 +1,6 @@
 # RefRectify
 Rectify the reference (germline Snp, Insert and Deletion) with the result of mpileup<br>
+Only fit for bacteria which has one chromosome!
 Version: 3
 
 # Background
